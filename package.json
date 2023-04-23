@@ -1,25 +1,40 @@
 {
-  "name": "shtrafovnet-front-test-task",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@types/node": "18.15.12",
-    "@types/react": "18.0.37",
-    "@types/react-dom": "18.0.11",
-    "autoprefixer": "10.4.14",
-    "eslint": "8.38.0",
-    "eslint-config-next": "13.3.0",
-    "next": "13.3.0",
-    "postcss": "8.4.23",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "tailwindcss": "3.3.1",
-    "typescript": "5.0.4"
-  }
+	"name": "shtrafovnet-front-test-task",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "concurrently \"npm run server\" \"next dev\"",
+		"server": "json-server --watch server.json --port 5555",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@headlessui/react": "^1.7.14",
+		"@heroicons/react": "^2.0.17",
+		"@types/node": "18.15.12",
+		"@types/react": "18.0.37",
+		"@types/react-dom": "18.0.11",
+		"autoprefixer": "10.4.14",
+		"axios": "^1.3.6",
+		"concurrently": "^8.0.1",
+		"eslint": "8.38.0",
+		"eslint-config-next": "13.3.0",
+		"formik": "^2.2.9",
+		"immer": "^10.0.1",
+		"next": "13.3.0",
+		"postcss": "8.4.23",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"react-query": "^3.39.3",
+		"react-toastify": "^9.1.2",
+		"tailwindcss": "3.3.1",
+		"typescript": "5.0.4",
+		"yup": "^1.1.1",
+		"zustand": "^4.3.7"
+	},
+	"devDependencies": {
+		"json-server": "^0.17.3",
+		"prettier-plugin-tailwindcss": "^0.2.7"
+	}
 }

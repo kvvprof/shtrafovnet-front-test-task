@@ -1,0 +1,232 @@
+{
+  "customers": [
+    {
+      "name": "Danielle Dean",
+      "email": "ruzy@mailinator.com",
+      "deferral_days": 10,
+      "credit_limit": 4,
+      "organization": {
+        "name": "Elijah Chaney",
+        "inn": "Tempor voluptate vol",
+        "kpp": "Hic reprehenderit ra",
+        "ogrn": "In irure exercitatio",
+        "addr": "Do qui recusandae E",
+        "bank_accounts": [
+          {
+            "name": "Jana Johnson",
+            "bik": "Blanditiis qui ut mi",
+            "account_number": "575",
+            "corr_account_number": "90",
+            "is_default": true
+          }
+        ]
+      },
+      "invoice_emails": [
+        "jejazuwy@mailinator.com"
+      ],
+      "metadata": [],
+      "created_at": "1682252627853",
+      "updated_at": "1682252627853",
+      "id": 1
+    },
+    {
+      "name": "Jade Willis",
+      "email": "batogan@mailinator.com",
+      "deferral_days": 26,
+      "credit_limit": 68,
+      "organization": {
+        "name": "Carl Dodson",
+        "inn": "Enim fuga Porro et ",
+        "kpp": "Esse dolor voluptate",
+        "ogrn": "In totam sapiente et",
+        "addr": "Veniam quo magna qu",
+        "bank_accounts": [
+          {
+            "name": "Catherine Wynn",
+            "bik": "Deleniti ducimus no",
+            "account_number": "960",
+            "corr_account_number": "14",
+            "is_default": true
+          }
+        ]
+      },
+      "invoice_emails": [
+        "tekyp@mailinator.com"
+      ],
+      "metadata": [],
+      "created_at": "1682252661753",
+      "updated_at": "1682252661753",
+      "id": 2
+    },
+    {
+      "name": "Lillian Preston",
+      "email": "wavezugyr@mailinator.com",
+      "deferral_days": 19,
+      "credit_limit": 23,
+      "organization": {
+        "name": "Nora Blake",
+        "inn": "Velit officiis commo",
+        "kpp": "Illo quibusdam sint ",
+        "ogrn": "Enim eius harum dese",
+        "addr": "Minus ratione earum ",
+        "bank_accounts": [
+          {
+            "name": "Jonas Huff",
+            "bik": "Obcaecati labore ut ",
+            "account_number": "200",
+            "corr_account_number": "229",
+            "is_default": false
+          },
+          {
+            "name": "Akeem Koch",
+            "bik": "Consequatur sit vel",
+            "account_number": "323",
+            "corr_account_number": "934",
+            "is_default": true
+          }
+        ]
+      },
+      "invoice_emails": [
+        "tizal@mailinator.com",
+        "gorabytaby@mailinator.com"
+      ],
+      "metadata": [
+        {
+          "key": "Nisi qui quis ut ita",
+          "value": "Ut accusantium harum"
+        }
+      ],
+      "created_at": "1682252676957",
+      "updated_at": "1682252676957",
+      "id": 3
+    },
+    {
+      "name": "Scott Bullock",
+      "email": "jewav@mailinator.com",
+      "deferral_days": 11,
+      "credit_limit": 72,
+      "organization": {
+        "name": "Kiona Garrison",
+        "inn": "Aliquam in omnis vel",
+        "kpp": "Laboriosam alias am",
+        "ogrn": "Cupidatat laborum D",
+        "addr": "Sint sit cum aute qu",
+        "bank_accounts": [
+          {
+            "name": "Anastasia Brown",
+            "bik": "Ut iusto alias conse",
+            "account_number": "233",
+            "corr_account_number": "682",
+            "is_default": true
+          }
+        ]
+      },
+      "invoice_emails": [
+        "papulejov@mailinator.com"
+      ],
+      "metadata": [],
+      "created_at": "1682252709457",
+      "updated_at": "1682252709457",
+      "id": 4
+    },
+    {
+      "name": "Kirk Cervantes",
+      "email": "lykihal@mailinator.com",
+      "deferral_days": 7,
+      "credit_limit": 46,
+      "organization": {
+        "name": "Hall Padilla",
+        "inn": "Autem voluptatum rat",
+        "kpp": "Autem sequi ut nisi ",
+        "ogrn": "Velit delectus in v",
+        "addr": "A mollit elit molli",
+        "bank_accounts": [
+          {
+            "name": "Calvin Duke",
+            "bik": "Velit consequatur e",
+            "account_number": "918",
+            "corr_account_number": "715",
+            "is_default": false
+          },
+          {
+            "name": "Inez Nelson",
+            "bik": "Ex adipisci molestia",
+            "account_number": "44",
+            "corr_account_number": "839",
+            "is_default": true
+          }
+        ]
+      },
+      "invoice_emails": [
+        "liseraly@mailinator.com"
+      ],
+      "metadata": [
+        {
+          "key": "Enim ut fugiat alias",
+          "value": "Commodo deserunt omn"
+        }
+      ],
+      "created_at": "1682252761654",
+      "updated_at": "1682252761654",
+      "id": 5
+    },
+    {
+      "name": "Bree Burgess",
+      "email": "rotinadihu@mailinator.com",
+      "deferral_days": 7,
+      "credit_limit": 44,
+      "organization": {
+        "name": "Angelica Bolton",
+        "inn": "Vitae ipsam hic eum ",
+        "kpp": "Accusamus qui laboru",
+        "ogrn": "Aute Nam et est sed",
+        "addr": "Similique unde velit",
+        "bank_accounts": [
+          {
+            "name": "Evelyn Burt",
+            "bik": "Porro perferendis de",
+            "account_number": "400",
+            "corr_account_number": "300",
+            "is_default": true
+          }
+        ]
+      },
+      "invoice_emails": [
+        "lijuroj@mailinator.com"
+      ],
+      "metadata": [],
+      "created_at": "1682252803077",
+      "updated_at": "1682252803077",
+      "id": 6
+    },
+    {
+      "name": "Lesley Mcgee",
+      "email": "furifoca@mailinator.com",
+      "deferral_days": 23,
+      "credit_limit": 84,
+      "organization": {
+        "name": "Robin Valdez",
+        "inn": "Reprehenderit veniam",
+        "kpp": "Amet consequatur a",
+        "ogrn": "Ut aut qui non vero ",
+        "addr": "Voluptas culpa est ",
+        "bank_accounts": [
+          {
+            "name": "Curran Thornton",
+            "bik": "Sunt delectus alia",
+            "account_number": "663",
+            "corr_account_number": "195",
+            "is_default": true
+          }
+        ]
+      },
+      "invoice_emails": [
+        "wiwak@mailinator.com"
+      ],
+      "metadata": [],
+      "created_at": "1682252957112",
+      "updated_at": "1682252957112",
+      "id": 7
+    }
+  ]
+}
